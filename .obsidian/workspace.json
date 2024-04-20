@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ccc220d1332a1d0",
+            "id": "c5afde159b10817f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 구축/목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "069b680e5964f038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 구축/목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7f52346a083ed92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 구축/목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d7d6d23d937d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 구축/데이터 모델링.md",
+                "file": "데이터베이스 구축/관계 데이터 연산.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "도메인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스 구축/데이터 모델링.md",
+                "file": "데이터베이스 구축/관계 데이터 연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스 구축/데이터 모델링.md",
+                "file": "데이터베이스 구축/관계 데이터 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스 구축/데이터 모델링.md"
+                "file": "데이터베이스 구축/관계 데이터 연산.md"
               }
             }
           }
@@ -183,23 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7d7d6d23d937d9d",
+  "active": "c5afde159b10817f",
   "lastOpenFiles": [
-    "데이터베이스 구축/Images/데이터 모델.png",
+    "Pasted image 20240420111848.png",
+    "데이터베이스 구축/관계 데이터 연산.md",
     "데이터베이스 구축/데이터 모델링.md",
+    "데이터베이스 구축/Images/순수 관계 연산자의 종류.png",
+    "데이터베이스 구축/Images/일반 집합 연산자의 종류.png",
+    "데이터베이스 구축/관계 데이터 모델.md",
+    "데이터베이스 구축/Images/관계 대수 연산자의 종류.png",
+    "데이터베이스 구축/Images/관계 데이터 연산.png",
     "데이터베이스 구축/목차.md",
+    "데이터베이스 구축/Images/키의 관계.png",
+    "Pasted image 20240420104016.png",
+    "데이터베이스 구축/Images/DB 구성 예.png",
+    "데이터베이스 구축/Images/릴레이션 구성 예.png",
+    "데이터베이스 구축/Images/릴레이션의 예.png",
+    "^53511a.md",
     "데이터베이스 구축/데이터베이스 시스템.md",
-    "Pasted image 20240419202923.png",
-    "데이터베이스 구축/Images/데이터베이스 시스템.png",
     "데이터베이스 구축/데이터베이스 관리 시스템.md",
-    "데이터베이스 구축/Images/DBMS의 발전 과정.png",
     "데이터베이스 구축/데이터베이스 기본 개념.md",
-    "데이터베이스 구축/Images/데이터베이스 관리 시스템.png",
     "데이터베이스 구축/Untitled.md",
-    "데이터베이스 구축/Images/특성에 따른 데이터 분류.png",
-    "데이터베이스 구축/Images/데이터베이스 기본 개념.png",
-    "데이터베이스 구축/Images/형태에 따른 데이터 분류.png",
-    "Pasted image 20240419195018.png",
     "데이터베이스 구축/Images",
     "안드로이드 앱 개발/Intent.md",
     "데이터베이스 구축",
