@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "응용SW기초기술활용/1.운영체제/목차.md",
+                "file": "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 스케줄링 알고리즘.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "도메인",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "응용SW기초기술활용/1.운영체제/목차.md",
+                "file": "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 스케줄링 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "응용SW기초기술활용/1.운영체제/목차.md",
+                "file": "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 스케줄링 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "응용SW기초기술활용/1.운영체제/목차.md"
+                "file": "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 스케줄링 알고리즘.md"
               }
             }
           }
@@ -148,12 +148,23 @@
   },
   "active": "c5afde159b10817f",
   "lastOpenFiles": [
-    "응용SW기초기술활용/1.운영체제/운영체제 요약.md",
-    "응용SW기초기술활용/1.운영체제/운영체제.md",
-    "응용SW기초기술활용/1.운영체제/입출력 프로그래밍.md",
-    "응용SW기초기술활용/1.운영체제/운영체제의 유형.md",
-    "응용SW기초기술활용/1.운영체제/운영체제에 대한 관점.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/목차.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 스케줄링.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 생성.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 제어 블록 (PCB).md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스의 상태.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스 관리.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스와 스레드 관리.md",
+    "응용SW기초기술활용/2.프로세스와 스레드 관리/프로세스와 스레드 관리 요약.md",
     "응용SW기초기술활용/1.운영체제/목차.md",
+    "응용SW기초기술활용/1.운영체제/운영체제 요약.md",
+    "응용SW기초기술활용/1.운영체제/입출력 프로그래밍.md",
+    "응용SW기초기술활용/1.운영체제/운영체제에 대한 관점.md",
+    "응용SW기초기술활용/프로그램.md",
+    "응용SW기초기술활용/반환시간.md",
+    "응용SW기초기술활용/버퍼.md",
+    "응용SW기초기술활용/1.운영체제/운영체제의 유형.md",
+    "응용SW기초기술활용/1.운영체제/운영체제.md",
     "유니티 프로그래밍/Shooting Game.md",
     "유니티 프로그래밍/Images/ShootingGame_Animator.png",
     "유니티 프로그래밍/Images/ShootingGame2.png",
@@ -174,17 +185,6 @@
     "유니티 프로그래밍/Images",
     "안드로이드 앱 개발/Intent.md",
     "안드로이드 앱 개발/목차.md",
-    "안드로이드 앱 개발/Screen Dividing.md",
-    "안드로이드 앱 개발/XOR Operation & Switch.md",
-    "안드로이드 앱 개발/ToggleButton & Switch.md",
-    "안드로이드 앱 개발/RadioButton.md",
-    "안드로이드 앱 개발/Check Box Lists.md",
-    "안드로이드 앱 개발/LinearLayout & Weight.md",
-    "안드로이드 앱 개발/Image Scale & Rotation & Alpha & Image Button.md",
-    "안드로이드 앱 개발/Colored Button.md",
-    "안드로이드 앱 개발/Random Dice Picker.md",
-    "안드로이드 앱 개발/Button OnClick Listener.md",
-    "안드로이드 앱 개발/Button Visibility & OnClick Listener & Logcat.md",
     "유니티 프로그래밍",
     "데이터베이스 구축/Images",
     "데이터베이스 구축"
