@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 구축/관계 데이터 연산.md",
+                "file": "응용SW기초기술활용/1.운영체제/목차.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스 구축/관계 데이터 연산.md",
+                "file": "응용SW기초기술활용/1.운영체제/목차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스 구축/관계 데이터 연산.md",
+                "file": "응용SW기초기술활용/1.운영체제/목차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스 구축/관계 데이터 연산.md"
+                "file": "응용SW기초기술활용/1.운영체제/목차.md"
               }
             }
           }
@@ -148,29 +148,45 @@
   },
   "active": "c5afde159b10817f",
   "lastOpenFiles": [
-    "Pasted image 20240420111848.png",
+    "응용SW기초기술활용/1.운영체제/운영체제 요약.md",
+    "응용SW기초기술활용/1.운영체제/운영체제.md",
+    "응용SW기초기술활용/1.운영체제/입출력 프로그래밍.md",
+    "응용SW기초기술활용/1.운영체제/운영체제의 유형.md",
+    "응용SW기초기술활용/1.운영체제/운영체제에 대한 관점.md",
+    "응용SW기초기술활용/1.운영체제/목차.md",
+    "유니티 프로그래밍/Shooting Game.md",
+    "유니티 프로그래밍/Images/ShootingGame_Animator.png",
+    "유니티 프로그래밍/Images/ShootingGame2.png",
+    "유니티 프로그래밍/Images/ShootingGame_EnemyBulletC.png",
+    "유니티 프로그래밍/Images/ShootingGame_EnemyBulletA.png",
+    "유니티 프로그래밍/Images/ShootingGame_EnemyC.png",
+    "유니티 프로그래밍/Images/ShootingGame_EnemyB.png",
+    "유니티 프로그래밍/Images/ShootingGame_EnemyA.png",
+    "유니티 프로그래밍/Images/ShootingGame_PlayerBullet2.png",
+    "유니티 프로그래밍/Images/ShootingGame_PlayerBullet1.png",
+    "Pasted image 20240420170050.png",
+    "유니티 프로그래밍/Ball Controller.md",
+    "데이터베이스 구축/데이터베이스 기본 개념.md",
+    "데이터베이스 구축/목차.md",
     "데이터베이스 구축/관계 데이터 연산.md",
     "데이터베이스 구축/데이터 모델링.md",
-    "데이터베이스 구축/Images/순수 관계 연산자의 종류.png",
-    "데이터베이스 구축/Images/일반 집합 연산자의 종류.png",
-    "데이터베이스 구축/관계 데이터 모델.md",
-    "데이터베이스 구축/Images/관계 대수 연산자의 종류.png",
-    "데이터베이스 구축/Images/관계 데이터 연산.png",
-    "데이터베이스 구축/목차.md",
-    "데이터베이스 구축/Images/키의 관계.png",
-    "Pasted image 20240420104016.png",
-    "데이터베이스 구축/Images/DB 구성 예.png",
-    "데이터베이스 구축/Images/릴레이션 구성 예.png",
-    "데이터베이스 구축/Images/릴레이션의 예.png",
-    "^53511a.md",
-    "데이터베이스 구축/데이터베이스 시스템.md",
-    "데이터베이스 구축/데이터베이스 관리 시스템.md",
-    "데이터베이스 구축/데이터베이스 기본 개념.md",
-    "데이터베이스 구축/Untitled.md",
-    "데이터베이스 구축/Images",
+    "안드로이드 앱 개발/Calculator.md",
+    "유니티 프로그래밍/Images",
     "안드로이드 앱 개발/Intent.md",
-    "데이터베이스 구축",
+    "안드로이드 앱 개발/목차.md",
+    "안드로이드 앱 개발/Screen Dividing.md",
+    "안드로이드 앱 개발/XOR Operation & Switch.md",
+    "안드로이드 앱 개발/ToggleButton & Switch.md",
+    "안드로이드 앱 개발/RadioButton.md",
+    "안드로이드 앱 개발/Check Box Lists.md",
+    "안드로이드 앱 개발/LinearLayout & Weight.md",
     "안드로이드 앱 개발/Image Scale & Rotation & Alpha & Image Button.md",
-    "안드로이드 앱 개발/RadioButton.md"
+    "안드로이드 앱 개발/Colored Button.md",
+    "안드로이드 앱 개발/Random Dice Picker.md",
+    "안드로이드 앱 개발/Button OnClick Listener.md",
+    "안드로이드 앱 개발/Button Visibility & OnClick Listener & Logcat.md",
+    "유니티 프로그래밍",
+    "데이터베이스 구축/Images",
+    "데이터베이스 구축"
   ]
 }

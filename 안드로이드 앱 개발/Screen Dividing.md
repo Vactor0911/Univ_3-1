@@ -2,7 +2,7 @@
 Week06_Question01
 
 #### 실행 화면
-![[Pasted image 20240419155739.png]]
+![[Week06_Question01.png]]
 - 1 : 1 비율로 나눠진 각 패널이 존재하고, 파란색 패널의 오른쪽 아래로 정렬된 \[Button\]이 있다.
 
 #### activity_main.xml
