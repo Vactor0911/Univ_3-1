@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae5587c0e6c024c8",
+            "id": "450d931883a28536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/최종 요약.md",
-                "mode": "source",
-                "source": false
+                "file": "Fortress_Effect.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/최종 요약.md",
+                "file": "Fortress_Effect.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/최종 요약.md",
+                "file": "Fortress_Effect.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/최종 요약.md"
+                "file": "Fortress_Effect.png"
               }
             }
           }
@@ -146,44 +144,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae5587c0e6c024c8",
+  "active": "450d931883a28536",
   "lastOpenFiles": [
+    "FortressGame.png",
+    "Fortress_Effect.png",
+    "유니티 프로그래밍/FortressGame.md",
+    "유니티 프로그래밍/Package & Import 문제 발생시 해결 방법.md",
+    "Fortress_MainCamera.png",
+    "FortressGame_Bullet.png",
+    "FortressGame_Ground.png",
+    "FortressGame_TargetPos.png",
+    "FortressGame_Tank.png",
+    "FortressGame_2.png",
+    "유니티 프로그래밍/WatermelonGame.md",
+    "유니티 프로그래밍/Ball Trajectory.md",
     "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+    "응용SW기초기술활용/7. 교착 상태/교착 상태 예방.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
+    "응용SW기초기술활용/11. 임베디드 시스템/임베디드 시스템.md",
+    "응용SW기초기술활용/10. 분산 처리 시스템/분산 처리 시스템.md",
+    "응용SW기초기술활용/10. 분산 처리 시스템/클라우드 컴퓨팅 (시스템).md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
     "응용SW기초기술활용/기말고사 대비/최종 요약.md",
     "응용SW기초기술활용/기말고사 대비/기말 모의 시험.md",
     "응용SW기초기술활용/기말고사 대비",
     "응용SW기초기술활용/6. 프로세스 간 동기화 및 통신/상호 배제 알고리즘.md",
-    "응용SW기초기술활용/10. 분산 처리 시스템/분산 처리 시스템.md",
     "응용SW기초기술활용/8. 정보 보호 및 보안/보안.md",
     "응용SW기초기술활용/11. 임베디드 시스템/IoT 운영체제.md",
     "유니티 프로그래밍/Shooting Game.md",
     "유니티 프로그래밍/Images/WatermelonGame2.png",
-    "유니티 프로그래밍/WatermelonGame.md",
     "유니티 프로그래밍/Images/WatermelonGame_Animation.png",
-    "유니티 프로그래밍/Images/WatermelonGame_Animator.png",
-    "유니티 프로그래밍/Images/WatermelonGame_Effect.png",
-    "유니티 프로그래밍/Images/WatermelonGame_Dongle.png",
-    "유니티 프로그래밍/Images/WatermelonGame_Inspectors.png",
-    "유니티 프로그래밍/Images/WatermelonGame_GameManager.png",
-    "유니티 프로그래밍/Images/WatermelonGame.png",
     "유니티 프로그래밍/Animation 2D.md",
-    "유니티 프로그래밍/Images/BallTrajectory_Start.png",
-    "유니티 프로그래밍/Images/Animation2D.png",
-    "유니티 프로그래밍/Ball Trajectory.md",
     "유니티 프로그래밍/Ball Controller.md",
-    "응용SW기초기술활용/11. 임베디드 시스템/임베디드 시스템.md",
     "응용SW기초기술활용/11. 임베디드 시스템/가상 기계.md",
-    "응용SW기초기술활용/10. 분산 처리 시스템/클라우드 컴퓨팅 (시스템).md",
     "응용SW기초기술활용/9. 다중 처리 시스템/Flynn의 분류.md",
     "응용SW기초기술활용/9. 다중 처리 시스템/운영체제 구성.md",
     "응용SW기초기술활용/9. 다중 처리 시스템/병렬성.md",
     "응용SW기초기술활용/8. 정보 보호 및 보안/보호.md",
     "응용SW기초기술활용/7. 교착 상태/교착 상태 회피.md",
-    "응용SW기초기술활용/7. 교착 상태/교착 상태 회복.md",
-    "응용SW기초기술활용/7. 교착 상태/교착 상태 예방.md",
-    "응용SW기초기술활용/7. 교착 상태/교착 상태.md",
-    "응용SW기초기술활용/6. 프로세스 간 동기화 및 통신/요약.md",
-    "응용SW기초기술활용/5. 디스크 스케줄링과 파일 시스템/요약.md",
     "응용SW기초기술활용/11. 임베디드 시스템",
     "응용SW기초기술활용/10. 분산 처리 시스템",
     "응용SW기초기술활용/9. 다중 처리 시스템",
