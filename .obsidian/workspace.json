@@ -11,9 +11,11 @@
             "id": "450d931883a28536",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "컴퓨터 알고리즘/DijkstraAlgorithm.png"
+                "file": "안드로이드 앱 개발/EndTermExamPractice.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 알고리즘/DijkstraAlgorithm.png",
+                "file": "안드로이드 앱 개발/EndTermExamPractice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 알고리즘/DijkstraAlgorithm.png",
+                "file": "안드로이드 앱 개발/EndTermExamPractice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 알고리즘/DijkstraAlgorithm.png"
+                "file": "안드로이드 앱 개발/EndTermExamPractice.md"
               }
             }
           }
@@ -146,11 +148,28 @@
   },
   "active": "450d931883a28536",
   "lastOpenFiles": [
+    "안드로이드 앱 개발/TouchEvent.md",
+    "안드로이드 앱 개발/ImageDisplay.md",
+    "안드로이드 앱 개발/EndTermExamPractice.md",
+    "안드로이드 앱 개발/SurfaceView.md",
+    "안드로이드 앱 개발/목차.md",
+    "안드로이드 앱 개발/AlertDialog.md",
+    "안드로이드 앱 개발/Images/EndTermExamPractice.png",
+    "안드로이드 앱 개발/Intent.md",
+    "안드로이드 앱 개발/LifeCycle.md",
+    "안드로이드 앱 개발/RecyclerView.md",
+    "안드로이드 앱 개발/Random Dice Picker.md",
+    "안드로이드 앱 개발/Graphics.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
+    "유니티 프로그래밍/FortressGame.md",
+    "컴퓨터 알고리즘.zip",
+    "컴퓨터 알고리즘/DijkstraAlgorithm.png",
     "컴퓨터 알고리즘/다익스트라 알고리즘.md",
     "DijkstraAlgorithm.png",
     "컴퓨터 알고리즘/그리디 알고리즘.md",
     "컴퓨터 알고리즘/링크드 리스트.md",
-    "유니티 프로그래밍/FortressGame.md",
     "컴퓨터 알고리즘/큐.md",
     "컴퓨터 알고리즘/스택.md",
     "컴퓨터 알고리즘/삽입 정렬.md",
@@ -165,31 +184,15 @@
     "FortressGame_Ground.png",
     "FortressGame_TargetPos.png",
     "FortressGame_Tank.png",
-    "FortressGame_2.png",
     "유니티 프로그래밍/WatermelonGame.md",
     "유니티 프로그래밍/Ball Trajectory.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
-    "응용SW기초기술활용/7. 교착 상태/교착 상태 예방.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
-    "응용SW기초기술활용/11. 임베디드 시스템/임베디드 시스템.md",
-    "응용SW기초기술활용/10. 분산 처리 시스템/분산 처리 시스템.md",
-    "응용SW기초기술활용/10. 분산 처리 시스템/클라우드 컴퓨팅 (시스템).md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
-    "응용SW기초기술활용/기말고사 대비/최종 요약.md",
-    "응용SW기초기술활용/기말고사 대비/기말 모의 시험.md",
     "응용SW기초기술활용/기말고사 대비",
-    "응용SW기초기술활용/6. 프로세스 간 동기화 및 통신/상호 배제 알고리즘.md",
-    "응용SW기초기술활용/8. 정보 보호 및 보안/보안.md",
-    "응용SW기초기술활용/11. 임베디드 시스템/IoT 운영체제.md",
-    "유니티 프로그래밍/Images/WatermelonGame2.png",
-    "유니티 프로그래밍/Animation 2D.md",
     "응용SW기초기술활용/11. 임베디드 시스템",
     "응용SW기초기술활용/10. 분산 처리 시스템",
     "응용SW기초기술활용/9. 다중 처리 시스템",
     "응용SW기초기술활용/8. 정보 보호 및 보안",
     "응용SW기초기술활용/7. 교착 상태",
     "응용SW기초기술활용/6. 프로세스 간 동기화 및 통신",
-    "응용SW기초기술활용/5. 디스크 스케줄링과 파일 시스템",
-    "유니티 프로그래밍/Images"
+    "응용SW기초기술활용/5. 디스크 스케줄링과 파일 시스템"
   ]
 }
