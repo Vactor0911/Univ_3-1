@@ -23,9 +23,11 @@
             "id": "ef2974aadfb5dfa4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "정보보호개론/PDCA의 예.png"
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정보보호개론/PDCA의 예.png",
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정보보호개론/PDCA의 예.png",
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정보보호개론/PDCA의 예.png"
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md"
               }
             }
           }
@@ -159,10 +161,10 @@
   },
   "active": "ef2974aadfb5dfa4",
   "lastOpenFiles": [
-    "컴퓨터 알고리즘/DijkstraAlgorithm.png",
     "정보보호개론/정보 보호 개론.md",
-    "정보보호개론/PDCA의 예.png",
     "정보보호개론/암호화 시스템.png",
+    "정보보호개론/PDCA의 예.png",
+    "컴퓨터 알고리즘/DijkstraAlgorithm.png",
     "컴퓨터 알고리즘/삽입 정렬.md",
     "정보보호개론",
     "컴퓨터 알고리즘/링크드 리스트.md",
