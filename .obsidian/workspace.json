@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7be842dd4cad43d1",
+        "id": "f97b789a10b19a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "450d931883a28536",
+            "id": "e87d4bfd8ee15de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보보호개론/정보 보호 개론.md",
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef2974aadfb5dfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약.md"
+                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md"
               }
             }
           }
@@ -159,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef2974aadfb5dfa4",
+  "active": "ee9d7fea169bb732",
   "lastOpenFiles": [
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
     "정보보호개론/정보 보호 개론.md",
+    "컴퓨터 알고리즘/스택.md",
+    "컴퓨터 알고리즘/큐.md",
     "정보보호개론/암호화 시스템.png",
     "정보보호개론/PDCA의 예.png",
     "컴퓨터 알고리즘/DijkstraAlgorithm.png",
@@ -169,7 +161,6 @@
     "정보보호개론",
     "컴퓨터 알고리즘/링크드 리스트.md",
     "데이터베이스 구축/SQL 연습 문제.md",
-    "컴퓨터 알고리즘/큐.md",
     "안드로이드 앱 개발/EndTermExamPractice.md",
     "안드로이드 앱 개발/TouchEvent.md",
     "안드로이드 앱 개발/ImageDisplay.md",
@@ -182,15 +173,11 @@
     "안드로이드 앱 개발/RecyclerView.md",
     "안드로이드 앱 개발/Random Dice Picker.md",
     "안드로이드 앱 개발/Graphics.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
     "유니티 프로그래밍/FortressGame.md",
     "컴퓨터 알고리즘.zip",
     "컴퓨터 알고리즘/다익스트라 알고리즘.md",
     "DijkstraAlgorithm.png",
     "컴퓨터 알고리즘/그리디 알고리즘.md",
-    "컴퓨터 알고리즘/스택.md",
     "응용SW기초기술활용/5. 디스크 스케줄링과 파일 시스템/요약.md",
     "유니티 프로그래밍/Shooting Game.md",
     "컴퓨터 알고리즘",
