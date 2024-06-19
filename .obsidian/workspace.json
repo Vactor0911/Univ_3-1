@@ -11,11 +11,9 @@
             "id": "e87d4bfd8ee15de3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
-                "mode": "source",
-                "source": false
+                "file": "정보보호개론/암호화 시스템.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
+                "file": "정보보호개론/암호화 시스템.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
+                "file": "정보보호개론/암호화 시스템.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md"
+                "file": "정보보호개론/암호화 시스템.png"
               }
             }
           }
@@ -146,21 +144,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee9d7fea169bb732",
+  "active": "e87d4bfd8ee15de3",
   "lastOpenFiles": [
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이.md",
-    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
     "정보보호개론/정보 보호 개론.md",
+    "정보보호개론/PDCA의 예.png",
+    "컴퓨터 알고리즘/DijkstraAlgorithm.png",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약.md",
+    "응용SW기초기술활용/기말고사 대비/최종 요약.md",
+    "응용SW기초기술활용/기말고사 대비/기말 모의 시험.md",
+    "응용SW기초기술활용/기말고사 대비/기말 모의 시험.md",
+    "데이터베이스 구축/목차.md",
+    "데이터베이스 구축/SQL 연습 문제.md",
+    "응용SW기초기술활용/기말고사 대비/핵심 요약 풀이 1.md",
     "컴퓨터 알고리즘/스택.md",
     "컴퓨터 알고리즘/큐.md",
     "정보보호개론/암호화 시스템.png",
-    "정보보호개론/PDCA의 예.png",
-    "컴퓨터 알고리즘/DijkstraAlgorithm.png",
     "컴퓨터 알고리즘/삽입 정렬.md",
     "정보보호개론",
     "컴퓨터 알고리즘/링크드 리스트.md",
-    "데이터베이스 구축/SQL 연습 문제.md",
     "안드로이드 앱 개발/EndTermExamPractice.md",
     "안드로이드 앱 개발/TouchEvent.md",
     "안드로이드 앱 개발/ImageDisplay.md",
@@ -177,9 +178,6 @@
     "컴퓨터 알고리즘.zip",
     "컴퓨터 알고리즘/다익스트라 알고리즘.md",
     "DijkstraAlgorithm.png",
-    "컴퓨터 알고리즘/그리디 알고리즘.md",
-    "응용SW기초기술활용/5. 디스크 스케줄링과 파일 시스템/요약.md",
-    "유니티 프로그래밍/Shooting Game.md",
     "컴퓨터 알고리즘",
     "FortressGame.png",
     "Fortress_Effect.png",
